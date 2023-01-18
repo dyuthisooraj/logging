@@ -1,0 +1,241 @@
+﻿@model IEnumerable<HalcyonApparelsMVC.Models.AccessoryDetailsMVC>
+
+
+@{
+    ViewData["Title"] = "AccessoryView";
+}
+
+<link rel="stylesheet" href="~/css/serial.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+
+<h3 style="color: black; margin-top:30px; margin-bottom:30px;">Accessories</h3>
+@if (TempData["AlertMessage"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success!! </strong>@TempData["AlertMessage"]
+        <button type="button" class="close" data-dismiss="alert">
+        <span>&times;</span>
+        </button>
+    </div>
+}
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>Sl. No</th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.AccessoryName)
+            </th>
+
+            <th>
+                <div style="float:right;">
+
+
+                    <button type="button" id="addbtn" class="btn btn-primary">Add</button>
+
+                </div>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>&nbsp;</td>
+             
+                <td>
+                    @Html.DisplayFor(modelItem => item.AccessoryName)
+                </td>
+
+                <td >
+                    <div style="float: right;">
+                    <i class="bi bi-pencil-fill editbtn" data-id="@item.AccessoryId" style="color:blue;"></i>
+                    <i class="bi bi-file-earmark-text-fill detailsbtn" data-id="@item.AccessoryId" style="color:rgb(105, 186, 167); margin-left:15px; "></i>
+
+                    <a href="@Url.Action("Delete", new { id=item.AccessoryId })" style="color:red; margin-left:15px;" new { onclick="return confirm('Are you sure to Delete this ?');" })>
+                        <i class="bi bi-trash-fill"></i>
+
+                    </a>
+                    </div>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+<!--Add accessory-->
+<div id="myModal" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent'>
+                <div class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Edit accessory-->
+<div id="modal-edit" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='modal-edit-content'>
+                <div class="modal-body" id="editmodal">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Details accessory-->
+<div id='modal-details' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='modal-details-content'>
+                <div class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+    {
+
+    <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modal.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modal.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/lib/jquery.unobtrusive-ajax.min.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+
+        });
+    </script>
+
+
+
+    <script>
+        $(".detailsbtn").click(function () {
+
+            var detailUrl = '/Home/_DetailsPartial';
+
+
+            var $buttonClicked = $(this);
+            var id = $buttonClicked.attr('data-id');
+            console.log(id);
+            var options = { "backdrop": "static", keyboard: true }
+            $.ajax({
+
+                type: "GET",
+                url: detailUrl,
+                contentType: "application/json; charset=utf-8",
+                data: { "Id": id },
+                datatype: "json",
+                success: function (data) {
+
+                    $('#modal-details-content').html(data);
+                    $('#modal-details').modal(options);
+                    $('#modal-details').modal('show');
+
+                },
+                error: function () {
+                    alert("Dynamic content load failed.");
+                }
+            });
+        });
+
+        //=======================================================================================
+        //            $(function () {
+        //                $(".deletebtn").click(function () {
+        //                    alert(Are you sure to Delete?);
+        //                });
+        //            });
+
+
+
+
+
+        //=======================================================================================
+
+        $(function () {
+            var postUrl = '/Home/_PostPartial';
+            $("#addbtn").click(function () {
+
+                var $buttonClicked = $(this);
+                var id = $buttonClicked.attr('data-id');
+                var options = { "backdrop": "static", keyboard: true };
+                $.ajax({
+                    type: "GET",
+
+                    url: postUrl,
+                    contentType: "application/json; charset=utf-8",
+                    data: { "Id": id },
+                    datatype: "json",
+                    success: function (data) {
+
+                        $('#myModalContent').html(data);
+                        $('#myModal').modal(options);
+                        $('#myModal').modal('show');
+
+                    },
+                    error: function () {
+                        alert("Dynamic content load failed.");
+                    }
+                });
+            });
+
+
+            $("#closbtn").click(function () {
+                $('#myModal').modal('hide');
+            });
+        });
+
+        //=======================================================================================
+
+        $(".editbtn").click(function () {
+
+            var editUrl = '/Home/_EditPartial';
+
+
+            var $buttonClicked = $(this);
+            var id = $buttonClicked.attr('data-id');
+            console.log(id);
+            var options = { "backdrop": "static", keyboard: true }
+            $.ajax({
+
+                type: "GET",
+                url: editUrl,
+                contentType: "application/json; charset=utf-8",
+                data: { "Id": id },
+                datatype: "json",
+                success: function (data) {
+
+                    $('#modal-edit-content').html(data);
+                    $('#modal-edit').modal(options);
+                    $('#modal-edit').modal('show');
+
+                },
+                error: function () {
+                    alert("Dynamic content load failed.");
+                }
+            });
+        });
+
+
+    </script>
+}
+

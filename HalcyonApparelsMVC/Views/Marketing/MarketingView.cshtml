@@ -1,0 +1,30 @@
+﻿@model HalcyonApparelsMVC.DTO.MapDTO
+@{
+    ViewData["Title"] = "MarketingView";
+    var aclist = ViewBag.acclist as List<string>;
+}
+
+
+<h3 style="color: black; margin-top:30px; margin-bottom:30px;">Marketing</h3>
+
+<div class="wrap">
+    <form asp-action="MarketingView" method="post">
+    <select name="accessorytype" asp-for="accessorytype" asp-items="new SelectList(ViewBag.acclist).Distinct()">
+     
+    </select>
+        <select name="productType" asp-for="productType" asp-items="new SelectList(ViewBag.ptypelist)">
+    </select>
+    <div style="margin-top:15px;">
+
+    <input type="submit" value="Map" class="btn btn-primary" data-inline="true" />
+    </div>
+
+       @* <i class="bi bi bi-file-plus-fill" onclick=" location.href='@Url.Action("AccessoryTypeView", "Marketing")'" style="color:blue;"></i>*@
+</form>
+
+    @*<div style="margin-top: 25px;">
+
+        <button type="button" value="Send Mails" class="btn btn-primary"  onclick=" location.href='@Url.Action("Mail", "Marketing")' ">Send Emails</button>
+    </div>*@
+</div>
+

@@ -1,0 +1,72 @@
+﻿@model HalcyonApparelsMVC.Models.TempData
+
+<link rel="stylesheet" href="~/css/popup.css" />
+
+
+<div class="wrap">
+    <div class="modal-edit">
+        <h3>Edit Accessory </h3>
+       
+        <div class="edit">
+            <form asp-action="Edit" enctype="multipart/form-data">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="AccessoryName" class="control-label"></label>
+                    <input asp-for="AccessoryName" class="form-control" />
+                    <span asp-validation-for="AccessoryName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="AccessoryType" class="control-label"></label>
+                    <input asp-for="AccessoryType" class="form-control" />
+                    <span asp-validation-for="AccessoryType" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="AccessoryBrand" class="control-label"></label>
+                    <input asp-for="AccessoryBrand" class="form-control" />
+                    <span asp-validation-for="AccessoryBrand" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="AccessoryPrice" class="control-label"></label>
+                    <input asp-for="AccessoryPrice" class="form-control" />
+                    <span asp-validation-for="AccessoryPrice" class="text-danger"></span>
+                </div>            <div class="form-group">
+                    <label asp-for="AccessoryDiscount" class="control-label"></label>
+                    <input asp-for="AccessoryDiscount" class="form-control" />
+                    <span asp-validation-for="AccessoryDiscount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile" class="control-label"></label>
+                    <div class="custom-file">
+                        <input asp-for="ImageFile" class="custom-file-input"  onchange="document.getElementById('FrontImagePrv').src=window.URL.createObjectURL(this.files[0])" />
+                       
+                    </div>
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+                <img id="FrontImagePrv" src="" alt="image" width="150" height="150" style="border:1px; margin-top:20px; margin-left:120px;" />
+                @*<img src="~/photos/@Model.ImageUrl" width="150" height="150" />*@
+                <div class="modal-footer">
+                    <input type="submit" value="Save" class="btn btn-primary colorbtn" />
+                    <button type="button" class=" btn btn-primary closbtn " data-dismiss="modal" style="margin-left:15px;">Cancel</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".closbtn").click(function () {
+            $("#modal-edit").modal("hide");
+        });
+    });
+
+    $(".custom-file-input").on("change", function () {
+        var fileName = $(this).val().split("\\").pop();
+        $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+    });
+
+    
+</script>
+

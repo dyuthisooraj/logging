@@ -1,0 +1,29 @@
+﻿
+
+.error {
+    color: #af4242;
+    background-color: #fde8ec;
+    padding: 10px;
+    /*visibility: hidden;*/
+    display: none;
+}
+
+    .error.display-error {
+        display: block;
+        margin-bottom: 20px;
+        transform: translateY(-20px);
+    }
+
+.success {
+    margin-bottom: 30px;
+    color: green;
+    background-color: #d2ffd2;
+    padding: 10px;
+    display: none;
+}
+
+    .success.display-success {
+        display: block;
+    }
+
+

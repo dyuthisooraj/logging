@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HalcyonApparelsMVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/first.css" />
+    <link rel="stylesheet" href="~/css/mint.css" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+
+
+
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-dark bg-primary">
+            <a class="navbar-brand" href="#" style="color: black; font-size: 20px; font-weight: normal;">
+                <img src="~/images/logo.png" width="35" height="35" class="d-inline-block align-top" alt="" style="margin-left: 20px; font-weight: normal; font-size: 15px">
+                Halcyon Apparels
+            </a>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pt-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*  <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2022 - HalcyonApparelsMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    </footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script type="text/javascript">
+        function preventBack() {
+            window.history.forward();
+        }
+        setTimeout("preventBack()", 0);
+        window.onunload = function () { null };
+
+    </script>
+
+
+}

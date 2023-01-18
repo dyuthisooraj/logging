@@ -1,0 +1,101 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.box {
+    width: 350px;
+    margin: auto;
+    padding: 5px;
+    background-color: #fcfcfc;
+    margin-top: 500px;
+}
+
+form {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: Arial;
+    border: 1px dotted white;
+}
+
+.detail {
+    padding: 35px;
+    font-family: Arial;
+}
+
+h2 {
+    text-align: left;
+    color: black;
+    padding: 10px;
+}
+
+h3 {
+    text-align: left;
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+input {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+    input[type=text] {
+        width: 90%;
+    }
+
+
+    input[type=number] {
+        width: 90%;
+    }
+
+.close {
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    right: 0;
+    color: tomato;
+    font-size: 34px;
+}
+
+    .close:hover {
+        background-color: red;
+        border-radius: 0 12px 0 0;
+        color: #fcfcfc;
+        cursor: pointer;
+    }
+
+
+
+button:hover, button:focus {
+    background-color: rgb(3, 145, 144);
+    outline: rgb(2, 137, 108) 2px solid;
+    cursor: pointer;
+}
+
+}
+
+@keyframes slant-animate {
+    to {
+        background-color: #fff;
+    }
+}
+/* end */
+
+
+/* For small devices */
+@media(max-width: 350px) {
+    .box {
+        width: 90%;
+    }
+}

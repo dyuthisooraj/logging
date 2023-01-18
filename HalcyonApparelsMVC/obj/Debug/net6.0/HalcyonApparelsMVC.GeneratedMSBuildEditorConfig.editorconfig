@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HalcyonApparelsMVC
+build_property.RootNamespace = HalcyonApparelsMVC
+build_property.ProjectDir = D:\allsetemail\finalnew\new\HalcyonApparelsMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\allsetemail\finalnew\new\HalcyonApparelsMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/AccessoryView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NvcnlWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/CustomerAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lckFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/Marketing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXJrZXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/_DetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRGV0YWlsc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRWRpdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Home/_PostPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUG9zdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/LoginMVC/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5NVkNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Marketing/CustomerView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0aW5nXEN1c3RvbWVyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Marketing/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0aW5nXEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Marketing/Mail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0aW5nXE1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Marketing/MarketingView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0aW5nXE1hcmtldGluZ1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Marketing/OrderView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0aW5nXE9yZGVyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/wwwroot/emails/Belts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxlbWFpbHNcQmVsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/wwwroot/emails/Mixed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxlbWFpbHNcTWl4ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/wwwroot/emails/Shoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxlbWFpbHNcU2hvZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/wwwroot/emails/Toys.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxlbWFpbHNcVG95cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/wwwroot/emails/Watches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxlbWFpbHNcV2F0Y2hlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/allsetemail/finalnew/new/HalcyonApparelsMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hy0ey1pgw7

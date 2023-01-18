@@ -1,0 +1,80 @@
+﻿@model HalcyonApparelsMVC.Models.AccessoryDetailsMVC
+
+
+<link rel="stylesheet" href="~/css/popup.css" />
+
+
+
+<div class="wrap ">
+    <div class="modal-details">
+        <h3>Accessory Details</h3>
+
+     
+        <div class="detail">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryId)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryId)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryType)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryType)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryBrand)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryBrand)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryPrice)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryPrice)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.AccessoryDiscount)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.AccessoryDiscount)
+                </dd>
+                <dt class="col-sm-2">
+
+                    <img src="~/photos/@Model.ImageUrl" alt="image" width="150" height="150" style="border:1px; margin-top:20px; margin-left:120px;" />
+
+
+                </dt>
+
+            </dl>
+            <div class="modal-footer">
+                @* <input type="submit" value="Save" class="btn btn-primary" />*@
+                <button type="button" class=" btn btn-primary closbtn" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@*
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>*@
+<script type="text/javascript">
+    $(function () {
+        $(".closbtn").click(function () {
+            $("#modal-details").modal("hide");
+        });
+    });
+</script>

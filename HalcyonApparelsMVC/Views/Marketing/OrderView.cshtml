@@ -1,0 +1,46 @@
+﻿@model IEnumerable<HalcyonApparelsMVC.Models.GetOrder>
+
+@{
+    ViewData["Title"] = "OrderView";
+}
+
+<h1>OrderView</h1>
+
+<div>
+    <h4>GetOrder</h4>
+    <hr />
+    @foreach (var item in Model)
+    {
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.Parent_Order_Id__c)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.Parent_Order_Id__c)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.ordered_Date__c)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.ordered_Date__c)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.Product_Type__c)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.Product_Type__c)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.Contact__c)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.Contact__c)
+            </dd>
+        </dl>
+    }
+    
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
