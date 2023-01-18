@@ -180,3 +180,17 @@ D:\allsetemail\finalnew\new\HalcyonApparelsDomain\obj\Debug\net6.0\refint\Halcyo
 D:\allsetemail\finalnew\new\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.pdb
 D:\allsetemail\finalnew\new\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.genruntimeconfig.cache
 D:\allsetemail\finalnew\new\HalcyonApparelsDomain\obj\Debug\net6.0\ref\HalcyonApparelsDomain.dll
+D:\allsetemail\logging\HalcyonApparelsDomain\bin\Debug\net6.0\HalcyonApparelsDomain.deps.json
+D:\allsetemail\logging\HalcyonApparelsDomain\bin\Debug\net6.0\HalcyonApparelsDomain.runtimeconfig.json
+D:\allsetemail\logging\HalcyonApparelsDomain\bin\Debug\net6.0\HalcyonApparelsDomain.dll
+D:\allsetemail\logging\HalcyonApparelsDomain\bin\Debug\net6.0\HalcyonApparelsDomain.pdb
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.csproj.AssemblyReference.cache
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.AssemblyInfoInputs.cache
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.AssemblyInfo.cs
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.csproj.CoreCompileInputs.cache
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.dll
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\refint\HalcyonApparelsDomain.dll
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.pdb
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\HalcyonApparelsDomain.genruntimeconfig.cache
+D:\allsetemail\logging\HalcyonApparelsDomain\obj\Debug\net6.0\ref\HalcyonApparelsDomain.dll

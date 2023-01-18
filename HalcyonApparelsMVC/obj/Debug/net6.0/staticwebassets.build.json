@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F89ZukDGJUAlxG1FfqGkh0sm6HJwxIDGu2cub5hUtRE=",
+  "Hash": "AcUarJBj2fbgWaDyUeWxBgnNVVhjUURDm0HBd9Yre4M=",
   "Source": "HalcyonApparelsMVC",
   "BasePath": "_content/HalcyonApparelsMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HalcyonApparelsMVC\\wwwroot",
       "Source": "HalcyonApparelsMVC",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HalcyonApparelsMVC.styles.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HalcyonApparelsMVC.styles.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "HalcyonApparelsMVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HalcyonApparelsMVC.styles.css"
+      "OriginalItemSpec": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HalcyonApparelsMVC.styles.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HalcyonApparelsMVC.bundle.scp.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HalcyonApparelsMVC.bundle.scp.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "HalcyonApparelsMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HalcyonApparelsMVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HalcyonApparelsMVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\buttons.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\buttons.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/buttons.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\buttons.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\first.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\first.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/first.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\first.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\Login.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\Login.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/Login.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\mint.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\mint.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/mint.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\mint.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\popup.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\popup.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/popup.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\popup.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\serial.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\serial.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/serial.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\serial.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\site.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\css\\styles.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\css\\styles.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\bag.cshtml.cs",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\bag.cshtml.cs",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/bag.cshtml.cs",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\bag.cshtml.cs"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\Belts.cshtml",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\Belts.cshtml",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/Belts.cshtml",
       "AssetKind": "Build",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\Belts.cshtml"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\Mixed.cshtml",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\Mixed.cshtml",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/Mixed.cshtml",
       "AssetKind": "Build",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\Mixed.cshtml"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\Shoes.cshtml",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\Shoes.cshtml",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/Shoes.cshtml",
       "AssetKind": "Build",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\Shoes.cshtml"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\Toys.cshtml",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\Toys.cshtml",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/Toys.cshtml",
       "AssetKind": "Build",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\Toys.cshtml"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\emails\\Watches.cshtml",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\emails\\Watches.cshtml",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "emails/Watches.cshtml",
       "AssetKind": "Build",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\emails\\Watches.cshtml"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\favicon.ico",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\Images\\logo.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\Images\\logo.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\js\\Custom.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\js\\Custom.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "js/Custom.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Custom.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\js\\site.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\0693cc58-17dd-43fc-843c-efb50dd05b19_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\0693cc58-17dd-43fc-843c-efb50dd05b19_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/0693cc58-17dd-43fc-843c-efb50dd05b19_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\0693cc58-17dd-43fc-843c-efb50dd05b19_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\091a007d-ac15-4dff-b844-19438e27a4db_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\091a007d-ac15-4dff-b844-19438e27a4db_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/091a007d-ac15-4dff-b844-19438e27a4db_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\091a007d-ac15-4dff-b844-19438e27a4db_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\09f5757a-9338-43d9-b59c-6d48adb47969_lavie1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\09f5757a-9338-43d9-b59c-6d48adb47969_lavie1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/09f5757a-9338-43d9-b59c-6d48adb47969_lavie1.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\09f5757a-9338-43d9-b59c-6d48adb47969_lavie1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\0a29b54c-3a1c-4317-904d-ceda9dba9fa5_caprese2.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\0a29b54c-3a1c-4317-904d-ceda9dba9fa5_caprese2.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/0a29b54c-3a1c-4317-904d-ceda9dba9fa5_caprese2.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\0a29b54c-3a1c-4317-904d-ceda9dba9fa5_caprese2.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\0c6a27a7-c5f4-4a44-b862-03ffc7f8d710_caprese2.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\0c6a27a7-c5f4-4a44-b862-03ffc7f8d710_caprese2.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/0c6a27a7-c5f4-4a44-b862-03ffc7f8d710_caprese2.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\0c6a27a7-c5f4-4a44-b862-03ffc7f8d710_caprese2.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\1d42df1d-b9f1-4be1-afd0-00c33ae22769_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\1d42df1d-b9f1-4be1-afd0-00c33ae22769_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/1d42df1d-b9f1-4be1-afd0-00c33ae22769_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\1d42df1d-b9f1-4be1-afd0-00c33ae22769_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\21301c01-c9d7-4b99-9338-ddbed412bee3_caprese2.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\21301c01-c9d7-4b99-9338-ddbed412bee3_caprese2.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/21301c01-c9d7-4b99-9338-ddbed412bee3_caprese2.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\21301c01-c9d7-4b99-9338-ddbed412bee3_caprese2.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\2408aea4-b2a4-4822-bcd2-8826c57990d6_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\2408aea4-b2a4-4822-bcd2-8826c57990d6_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/2408aea4-b2a4-4822-bcd2-8826c57990d6_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\2408aea4-b2a4-4822-bcd2-8826c57990d6_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\252d36b6-e2a7-42b3-81c8-53858978133c_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\252d36b6-e2a7-42b3-81c8-53858978133c_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/252d36b6-e2a7-42b3-81c8-53858978133c_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\252d36b6-e2a7-42b3-81c8-53858978133c_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\25cd3a2a-0168-419a-929a-64dba3bffd96_1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\25cd3a2a-0168-419a-929a-64dba3bffd96_1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/25cd3a2a-0168-419a-929a-64dba3bffd96_1.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\25cd3a2a-0168-419a-929a-64dba3bffd96_1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\27e5cd40-918f-4b86-8772-ea9d62aaf1ae_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\27e5cd40-918f-4b86-8772-ea9d62aaf1ae_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/27e5cd40-918f-4b86-8772-ea9d62aaf1ae_sf.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\27e5cd40-918f-4b86-8772-ea9d62aaf1ae_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\36b6388a-9543-4ce3-b5ad-ce18d4cfea9e_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\36b6388a-9543-4ce3-b5ad-ce18d4cfea9e_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/36b6388a-9543-4ce3-b5ad-ce18d4cfea9e_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\36b6388a-9543-4ce3-b5ad-ce18d4cfea9e_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\3fb6f74f-a2e5-4cdc-8235-2e2c4313c6f7_4.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\3fb6f74f-a2e5-4cdc-8235-2e2c4313c6f7_4.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/3fb6f74f-a2e5-4cdc-8235-2e2c4313c6f7_4.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\3fb6f74f-a2e5-4cdc-8235-2e2c4313c6f7_4.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\414ad950-48c0-41df-9a11-94f95bc85e68_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\414ad950-48c0-41df-9a11-94f95bc85e68_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/414ad950-48c0-41df-9a11-94f95bc85e68_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\414ad950-48c0-41df-9a11-94f95bc85e68_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\41b0393b-7022-4a84-bd19-0ec2a54eadff_1a.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\41b0393b-7022-4a84-bd19-0ec2a54eadff_1a.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/41b0393b-7022-4a84-bd19-0ec2a54eadff_1a.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\41b0393b-7022-4a84-bd19-0ec2a54eadff_1a.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\4c381d3d-d7f9-40f1-bcae-77f818b8f19f_1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\4c381d3d-d7f9-40f1-bcae-77f818b8f19f_1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/4c381d3d-d7f9-40f1-bcae-77f818b8f19f_1.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\4c381d3d-d7f9-40f1-bcae-77f818b8f19f_1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\4ccec358-576f-45cf-a86e-9bd2a64d9884_fasttrack1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\4ccec358-576f-45cf-a86e-9bd2a64d9884_fasttrack1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/4ccec358-576f-45cf-a86e-9bd2a64d9884_fasttrack1.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\4ccec358-576f-45cf-a86e-9bd2a64d9884_fasttrack1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\5366efe5-be07-4107-9ccf-6f8b7488c3d0_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\5366efe5-be07-4107-9ccf-6f8b7488c3d0_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/5366efe5-be07-4107-9ccf-6f8b7488c3d0_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\5366efe5-be07-4107-9ccf-6f8b7488c3d0_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\5a256dc4-5087-4d39-af84-e87e16d4febd_caprese2.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\5a256dc4-5087-4d39-af84-e87e16d4febd_caprese2.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/5a256dc4-5087-4d39-af84-e87e16d4febd_caprese2.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\5a256dc4-5087-4d39-af84-e87e16d4febd_caprese2.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\5a6d2bf9-7060-4ae2-a834-9876efb0fac5_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\5a6d2bf9-7060-4ae2-a834-9876efb0fac5_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/5a6d2bf9-7060-4ae2-a834-9876efb0fac5_sf.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\5a6d2bf9-7060-4ae2-a834-9876efb0fac5_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\5cd650e5-5360-4851-a13c-5d25bc22eeb3_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\5cd650e5-5360-4851-a13c-5d25bc22eeb3_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/5cd650e5-5360-4851-a13c-5d25bc22eeb3_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\5cd650e5-5360-4851-a13c-5d25bc22eeb3_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\6267a31b-4711-4997-8046-a4443c25ab6c_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\6267a31b-4711-4997-8046-a4443c25ab6c_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/6267a31b-4711-4997-8046-a4443c25ab6c_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\6267a31b-4711-4997-8046-a4443c25ab6c_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\62cdee7c-2296-4d81-b7ac-ad13daffe42c_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\62cdee7c-2296-4d81-b7ac-ad13daffe42c_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/62cdee7c-2296-4d81-b7ac-ad13daffe42c_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\62cdee7c-2296-4d81-b7ac-ad13daffe42c_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\6ad0e001-3524-43e4-b007-94006c94209f_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\6ad0e001-3524-43e4-b007-94006c94209f_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/6ad0e001-3524-43e4-b007-94006c94209f_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\6ad0e001-3524-43e4-b007-94006c94209f_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\7066a961-5bd6-4371-84ce-c1bce21c59e0_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\7066a961-5bd6-4371-84ce-c1bce21c59e0_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/7066a961-5bd6-4371-84ce-c1bce21c59e0_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\7066a961-5bd6-4371-84ce-c1bce21c59e0_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\7493ce5c-0001-414a-b2b0-cf85f1c519aa_3.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\7493ce5c-0001-414a-b2b0-cf85f1c519aa_3.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/7493ce5c-0001-414a-b2b0-cf85f1c519aa_3.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\7493ce5c-0001-414a-b2b0-cf85f1c519aa_3.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\751eeb17-dcc4-440c-bb0c-c04a63aa2007_logo.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\751eeb17-dcc4-440c-bb0c-c04a63aa2007_logo.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/751eeb17-dcc4-440c-bb0c-c04a63aa2007_logo.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\751eeb17-dcc4-440c-bb0c-c04a63aa2007_logo.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\75ee435f-d1e9-4aa0-97b7-817aec5b7408_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\75ee435f-d1e9-4aa0-97b7-817aec5b7408_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/75ee435f-d1e9-4aa0-97b7-817aec5b7408_sf.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\75ee435f-d1e9-4aa0-97b7-817aec5b7408_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\8460904f-c480-4dbd-852f-cc6fd548dd57_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\8460904f-c480-4dbd-852f-cc6fd548dd57_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/8460904f-c480-4dbd-852f-cc6fd548dd57_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\8460904f-c480-4dbd-852f-cc6fd548dd57_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\8b2379ce-dcff-4d61-bfcb-db650be11045_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\8b2379ce-dcff-4d61-bfcb-db650be11045_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/8b2379ce-dcff-4d61-bfcb-db650be11045_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\8b2379ce-dcff-4d61-bfcb-db650be11045_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\8b78a0e3-2cb7-4c95-8646-522742dd1fa4_3.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\8b78a0e3-2cb7-4c95-8646-522742dd1fa4_3.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/8b78a0e3-2cb7-4c95-8646-522742dd1fa4_3.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\8b78a0e3-2cb7-4c95-8646-522742dd1fa4_3.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\8d82df4f-183f-45eb-b0f6-9d73845599ca_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\8d82df4f-183f-45eb-b0f6-9d73845599ca_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/8d82df4f-183f-45eb-b0f6-9d73845599ca_sf.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\8d82df4f-183f-45eb-b0f6-9d73845599ca_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\92e18913-accd-464d-988a-0ea4a95e1ed6_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\92e18913-accd-464d-988a-0ea4a95e1ed6_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/92e18913-accd-464d-988a-0ea4a95e1ed6_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\92e18913-accd-464d-988a-0ea4a95e1ed6_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\939d9f94-0de7-4414-afe0-78a15016b21d_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\939d9f94-0de7-4414-afe0-78a15016b21d_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/939d9f94-0de7-4414-afe0-78a15016b21d_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\939d9f94-0de7-4414-afe0-78a15016b21d_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\95c8bcd8-4fe4-4796-8c8b-1d42198d5320_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\95c8bcd8-4fe4-4796-8c8b-1d42198d5320_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/95c8bcd8-4fe4-4796-8c8b-1d42198d5320_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\95c8bcd8-4fe4-4796-8c8b-1d42198d5320_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\9f7c71f7-8bad-43ba-9f6e-7a72de703c6f_caprese1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\9f7c71f7-8bad-43ba-9f6e-7a72de703c6f_caprese1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/9f7c71f7-8bad-43ba-9f6e-7a72de703c6f_caprese1.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\9f7c71f7-8bad-43ba-9f6e-7a72de703c6f_caprese1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\a90612c7-f852-4130-a676-e62c8f4165c1_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\a90612c7-f852-4130-a676-e62c8f4165c1_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/a90612c7-f852-4130-a676-e62c8f4165c1_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\a90612c7-f852-4130-a676-e62c8f4165c1_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\afdacc4e-9076-42aa-baaf-bf21d0d1b1f6_caprese1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\afdacc4e-9076-42aa-baaf-bf21d0d1b1f6_caprese1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/afdacc4e-9076-42aa-baaf-bf21d0d1b1f6_caprese1.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\afdacc4e-9076-42aa-baaf-bf21d0d1b1f6_caprese1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\bba8f78c-ed1d-47ab-a27e-cd4f4521c84c_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\bba8f78c-ed1d-47ab-a27e-cd4f4521c84c_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/bba8f78c-ed1d-47ab-a27e-cd4f4521c84c_sf.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\bba8f78c-ed1d-47ab-a27e-cd4f4521c84c_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\bc422909-dc6e-437b-99ae-3f0c71121f08_caprese1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\bc422909-dc6e-437b-99ae-3f0c71121f08_caprese1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/bc422909-dc6e-437b-99ae-3f0c71121f08_caprese1.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\bc422909-dc6e-437b-99ae-3f0c71121f08_caprese1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\be4ade5f-2522-449a-996c-23c644684065_3.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\be4ade5f-2522-449a-996c-23c644684065_3.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/be4ade5f-2522-449a-996c-23c644684065_3.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\be4ade5f-2522-449a-996c-23c644684065_3.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\c6b9ec27-3a03-42a0-8511-b78aa7d24811_1a.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\c6b9ec27-3a03-42a0-8511-b78aa7d24811_1a.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/c6b9ec27-3a03-42a0-8511-b78aa7d24811_1a.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\c6b9ec27-3a03-42a0-8511-b78aa7d24811_1a.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\ca35df2c-a1d8-430f-ae18-b3c282eef568_2.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\ca35df2c-a1d8-430f-ae18-b3c282eef568_2.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/ca35df2c-a1d8-430f-ae18-b3c282eef568_2.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\ca35df2c-a1d8-430f-ae18-b3c282eef568_2.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\d0fcd187-bc16-4ce1-93c8-159d2231999e_2.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\d0fcd187-bc16-4ce1-93c8-159d2231999e_2.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/d0fcd187-bc16-4ce1-93c8-159d2231999e_2.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\d0fcd187-bc16-4ce1-93c8-159d2231999e_2.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\d46f8620-d24b-4d00-84fa-0e4e174ea7c7_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\d46f8620-d24b-4d00-84fa-0e4e174ea7c7_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/d46f8620-d24b-4d00-84fa-0e4e174ea7c7_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\d46f8620-d24b-4d00-84fa-0e4e174ea7c7_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\ddcfbd8d-5bef-4b96-a87f-18869e3b07b6_1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\ddcfbd8d-5bef-4b96-a87f-18869e3b07b6_1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/ddcfbd8d-5bef-4b96-a87f-18869e3b07b6_1.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\ddcfbd8d-5bef-4b96-a87f-18869e3b07b6_1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\dde34ebe-cee9-4bd5-96eb-0d1d449b2d6d_1a.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\dde34ebe-cee9-4bd5-96eb-0d1d449b2d6d_1a.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/dde34ebe-cee9-4bd5-96eb-0d1d449b2d6d_1a.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\dde34ebe-cee9-4bd5-96eb-0d1d449b2d6d_1a.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\e0c19543-3a35-4503-b88e-752b21467a6f_louisphillipebelts1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\e0c19543-3a35-4503-b88e-752b21467a6f_louisphillipebelts1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/e0c19543-3a35-4503-b88e-752b21467a6f_louisphillipebelts1.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\e0c19543-3a35-4503-b88e-752b21467a6f_louisphillipebelts1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\e817e3c5-de8e-4c77-bf3b-08660835f920_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\e817e3c5-de8e-4c77-bf3b-08660835f920_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/e817e3c5-de8e-4c77-bf3b-08660835f920_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\e817e3c5-de8e-4c77-bf3b-08660835f920_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\f029410e-3f6f-4596-97c8-32afd030b15c_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\f029410e-3f6f-4596-97c8-32afd030b15c_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/f029410e-3f6f-4596-97c8-32afd030b15c_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\f029410e-3f6f-4596-97c8-32afd030b15c_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\f3a14ec5-d7cd-4ccf-8888-2ca79428fa97_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\f3a14ec5-d7cd-4ccf-8888-2ca79428fa97_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/f3a14ec5-d7cd-4ccf-8888-2ca79428fa97_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\f3a14ec5-d7cd-4ccf-8888-2ca79428fa97_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\f4cd0d1e-3e00-464d-882e-e1339631bde5_sf.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\f4cd0d1e-3e00-464d-882e-e1339631bde5_sf.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/f4cd0d1e-3e00-464d-882e-e1339631bde5_sf.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\f4cd0d1e-3e00-464d-882e-e1339631bde5_sf.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\f76f3253-a8db-4b01-892a-9b08a5ad6541_caprese1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\f76f3253-a8db-4b01-892a-9b08a5ad6541_caprese1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/f76f3253-a8db-4b01-892a-9b08a5ad6541_caprese1.png",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\f76f3253-a8db-4b01-892a-9b08a5ad6541_caprese1.png"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\fa73222f-a487-4692-b4a8-fb8eae0ac2ee_fireboltsmartwatch1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\fa73222f-a487-4692-b4a8-fb8eae0ac2ee_fireboltsmartwatch1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/fa73222f-a487-4692-b4a8-fb8eae0ac2ee_fireboltsmartwatch1.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\fa73222f-a487-4692-b4a8-fb8eae0ac2ee_fireboltsmartwatch1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\fbd288a7-26b8-437e-a7df-9dc9a4b4164e_louisvuittonbag1.jpg",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\fbd288a7-26b8-437e-a7df-9dc9a4b4164e_louisvuittonbag1.jpg",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/fbd288a7-26b8-437e-a7df-9dc9a4b4164e_louisvuittonbag1.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\fbd288a7-26b8-437e-a7df-9dc9a4b4164e_louisvuittonbag1.jpg"
     },
     {
-      "Identity": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\photos\\fcc2d843-482c-4652-8ebc-c4d87a74d144_1.png",
+      "Identity": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\photos\\fcc2d843-482c-4652-8ebc-c4d87a74d144_1.png",
       "SourceId": "HalcyonApparelsMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsMVC\\wwwroot\\",
+      "ContentRoot": "D:\\allsetemail\\logging\\HalcyonApparelsMVC\\wwwroot\\",
       "BasePath": "_content/HalcyonApparelsMVC",
       "RelativePath": "photos/fcc2d843-482c-4652-8ebc-c4d87a74d144_1.png",
       "AssetKind": "All",

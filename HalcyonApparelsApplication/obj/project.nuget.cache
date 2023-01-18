@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cTN0z2omHP+C9wk2VSFdg7jG+9UW1VW29kt1mAqSGGBzDti7s9s6y3CVH0n0aYCxZZCP77kHaR3MWw+YBlxsrQ==",
+  "dgSpecHash": "nATe6HQadTDsN/ZPUZ63ZDEvHKFliijReWO4BGjI+NhGM2ASgz6//0KSbXqSY7khT+ZhtZgOcrgsBmgS3VorHA==",
   "success": true,
-  "projectFilePath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj",
+  "projectFilePath": "D:\\allsetemail\\logging\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dsooraj\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
     "C:\\Users\\dsooraj\\.nuget\\packages\\fluentemail.razor\\3.0.2\\fluentemail.razor.3.0.2.nupkg.sha512",

@@ -220,16 +220,6 @@ namespace HalcyonApparelsMVC.Controllers
         }
 
 
-        //public List<CustomerDetailsMVC> CustomerAdd()
-        //{
-        //    var access_token = HttpContext.Session.GetString("Acces_token").ToString();
-
-        //var response = _salesforcedata.SalesforceCustomerDetails(access_token);
-        //var isTrue = _salesforcedata.Post(response);
-
-        //return response;
-        //}
-        
 
 
         public ActionResult Marketing()

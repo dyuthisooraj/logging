@@ -37,20 +37,13 @@ namespace HalcyonApparelsMVC.Services
 
 
 
-            //using (var streamWriter = new StreamWriter(httpRequest.GetRequestStream()))
-            //{
-            //    streamWriter.Write(data);
-            //}
 
             var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
             using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
                 var response = streamReader.ReadToEnd();
                 customerdata = JsonConvert.DeserializeObject<List<CustomerDetailsMVC>>(response);
-                //foreach (CustomerDetailsMVC cdata in customerdata)
-                //{
-                //    _mailsender.SendHtmlGmail(cdata.Email, cdata.Fname);
-                //}
+                
             }
             return customerdata;
         }

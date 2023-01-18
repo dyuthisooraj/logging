@@ -4735,11 +4735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
+      "projectUniqueName": "D:\\allsetemail\\logging\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
       "projectName": "HalcyonApparelsApi",
-      "projectPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
+      "projectPath": "D:\\allsetemail\\logging\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
       "packagesPath": "C:\\Users\\dsooraj\\.nuget\\packages\\",
-      "outputPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApi\\obj\\",
+      "outputPath": "D:\\allsetemail\\logging\\HalcyonApparelsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dsooraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4756,11 +4756,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj": {
-              "projectPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj"
+            "D:\\allsetemail\\logging\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj": {
+              "projectPath": "D:\\allsetemail\\logging\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj"
             },
-            "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj": {
-              "projectPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj"
+            "D:\\allsetemail\\logging\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj": {
+              "projectPath": "D:\\allsetemail\\logging\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj"
             }
           }
         }

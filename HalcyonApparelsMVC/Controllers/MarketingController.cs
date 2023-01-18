@@ -124,16 +124,16 @@ namespace HalcyonApparelsMVC.Controllers
             }
 
             IEnumerable<string> sendmail = new List<string>();
-            //foreach (var send in customer)
-            //{
-            //    sendmail = sendmail.Append(send.Email);
-
-            //}
+            foreach (var send in customer)
             {
-                sendmail = sendmail.Append("testuserhalcyon88@gmail.com");
-                sendmail = sendmail.Append("dyuthiminnu99@gmail.com");
+                sendmail = sendmail.Append(send.Email);
 
             }
+            //    {
+            //    sendmail = sendmail.Append("testuserhalcyon88@gmail.com");
+            //    sendmail = sendmail.Append("dyuthiminnu99@gmail.com");
+
+            //}
             _mailSender.SendBulkMail(sendmail);
             return RedirectToAction("AccessoryView", "Home");
    

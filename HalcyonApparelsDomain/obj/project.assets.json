@@ -2127,11 +2127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
+      "projectUniqueName": "D:\\allsetemail\\logging\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
       "projectName": "HalcyonApparelsDomain",
-      "projectPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
+      "projectPath": "D:\\allsetemail\\logging\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
       "packagesPath": "C:\\Users\\dsooraj\\.nuget\\packages\\",
-      "outputPath": "D:\\allsetemail\\finalnew\\new\\HalcyonApparelsDomain\\obj\\",
+      "outputPath": "D:\\allsetemail\\logging\\HalcyonApparelsDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dsooraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
